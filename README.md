@@ -23,7 +23,7 @@ NovumMart’s management requires clear, data-driven reporting of their sales pe
 The analysis is based on a consolidated dataset of approximately 49,000 transactions and 16 columns, covering January 2020 to September 2025. It represents customer orders across all current operating locations.
 
 ## Data Preview
-![Data Preview](data-preiw.jpg)
+![Data Preview](data-preview.PNG)
 
 
 ## Key Findings
@@ -37,7 +37,7 @@ The analysis is based on a consolidated dataset of approximately 49,000 transact
 - 
 
   ## Dashboard
-  ![Dashboard](dashboad.jpg)
+  ![Dashboard](dashboard.jpg)
 
   ## Link to Power BI Report:
   Click the Link to see fullreport:[click here]()
